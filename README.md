@@ -127,4 +127,9 @@ I was bound and determined to programmatically build the arrays (see `makeCharAr
 * This repo is located [on github](https://github.com/jonesjsc/03-JavaScript-Password-Generator)
 * This site is deployed on [github pages](https://jonesjsc.github.io/03-JavaScript-Password-Generator/)
 
+## License
+* ![License](https://img.shields.io/github/license/jonesjsc/03-JavaScript-Password-Generator)
 
+## Fun Stats
+* ![Last Commit](https://img.shields.io/github/last-commit/jonesjsc/03-JavaScript-Password-Generator)
+* ![Current Understanding level](https://img.shields.io/badge/Understanding%20Level-Gettin%20There-yellow)
