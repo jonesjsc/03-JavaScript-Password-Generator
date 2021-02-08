@@ -59,7 +59,7 @@ function generatePassword () {
   keepAskin = true;
   while (keepAskin) { 
     // passwordLength = window.prompt(`How many characters in your password? (${passwordMinLength}-${passwordMaxLength})`,12);
-    passwordLength = window.prompt("How Many characters in your password? (" + passwordMinLength + "-" + passwordMaxLength +")",12);
+    passwordLength = window.prompt(`How Many characters in your password? (${passwordMinLength}-${passwordMaxLength})`,12);
     if (passwordLength >= passwordMinLength && passwordLength <= passwordMaxLength) {
       keepAskin = false;
     } else {
