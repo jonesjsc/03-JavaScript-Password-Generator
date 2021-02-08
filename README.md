@@ -122,6 +122,6 @@ I think that's pretty cool so I super commented a couple functions.
 
 ## Links
 * This repo is located [on github](https://github.com/jonesjsc/03-JavaScript-Password-Generator)
-* This site is deployed on [github pages](https://jonesjsc.github.io/2-Responsive-Portfolio/)
+* This site is deployed on [github pages](https://jonesjsc.github.io/03-JavaScript-Password-Generator/)
 
 
