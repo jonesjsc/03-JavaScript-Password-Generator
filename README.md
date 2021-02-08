@@ -120,6 +120,9 @@ I think that's pretty cool so I super commented a couple functions.
 ## While Loops
 `while` loops are something I use all the time and have for ~30 years.  It's a very familar place for me so I wanted to revisit this here.
 
+## Programatically building the arrays vs hard coding
+I was bound and determined to programmatically build the arrays (see `makeCharArray`) vs just hand type each upper case and lower case and numeral and special.  So I started there in fact, and found that whole process enjoyable.  
+
 ## Links
 * This repo is located [on github](https://github.com/jonesjsc/03-JavaScript-Password-Generator)
 * This site is deployed on [github pages](https://jonesjsc.github.io/03-JavaScript-Password-Generator/)
