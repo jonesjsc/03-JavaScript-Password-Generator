@@ -118,7 +118,7 @@ I think that's pretty cool so I super commented a couple functions.
 `${expression}` is just so much more familar to me and I was glad that VSC suggested I change a particularly ugly line to something less ugly.
 
 ## While Loops
-`while` loops are something i user all the time and have for ~30 years.  It's a very familar place for me so I wanted to revisit this here.
+`while` loops are something I use all the time and have for ~30 years.  It's a very familar place for me so I wanted to revisit this here.
 
 ## Links
 * This repo is located [on github](https://github.com/jonesjsc/03-JavaScript-Password-Generator)
